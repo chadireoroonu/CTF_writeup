@@ -8,3 +8,7 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 1. What is the image hash?
 
     [1번 문제 풀이 바로가기](./1/1.md)
+
+2. What operating system was used on the computer?
+
+    [2번 문제 풀이 바로가기](./2/2.md)
