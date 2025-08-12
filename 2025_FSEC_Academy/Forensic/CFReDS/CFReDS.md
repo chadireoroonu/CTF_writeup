@@ -12,3 +12,7 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 2. What operating system was used on the computer?
 
     [2번 문제 풀이 바로가기](./2/2.md)
+
+3. When was the install date?
+
+    [3번 문제 풀이 바로가기](./3/3.md)
