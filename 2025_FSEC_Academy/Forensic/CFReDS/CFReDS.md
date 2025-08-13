@@ -16,3 +16,7 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 3. When was the install date?
 
     [3번 문제 풀이 바로가기](./3/3.md)
+
+4. What is the timezone settings?
+
+    [4번 문제 풀이 바로가기](./4/4.md)
