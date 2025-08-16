@@ -20,3 +20,7 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 4. What is the timezone settings?
 
     [4번 문제 풀이 바로가기](./4/4.md)
+
+5. Who is the registered owner?
+
+    [5번 문제 풀이 바로가기](./5/5.md)
