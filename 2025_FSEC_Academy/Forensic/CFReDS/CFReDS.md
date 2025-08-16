@@ -24,3 +24,7 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 5. Who is the registered owner?
 
     [5번 문제 풀이 바로가기](./5/5.md)
+
+6. What is the computer account name?
+
+    [6번 문제 풀이 바로가기](./6/6.md)
