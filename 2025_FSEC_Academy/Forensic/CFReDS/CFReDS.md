@@ -28,3 +28,8 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 6. What is the computer account name?
 
     [6번 문제 풀이 바로가기](./6/6.md)
+
+8. When was the last recorded computer shutdown date/time?
+
+    [8번 문제 풀이 바로가기](./8/8.md)
+
