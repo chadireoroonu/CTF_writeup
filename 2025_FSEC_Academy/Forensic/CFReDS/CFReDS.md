@@ -33,3 +33,6 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 
     [8번 문제 풀이 바로가기](./8/8.md)
 
+9. How many accounts are recorded (total number)?
+
+    [9번 문제 풀이 바로가기](./9/9.md)
