@@ -36,3 +36,8 @@ On 09/20/04, a Dell CPi notebook computer, serial # VLQLW, was found abandoned a
 9. How many accounts are recorded (total number)?
 
     [9번 문제 풀이 바로가기](./9/9.md)
+
+10. What is the account name of the user who mostly uses the computer?
+
+    [9번 문제 풀이 바로가기](./10/10.md)
+
